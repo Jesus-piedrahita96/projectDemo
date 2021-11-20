@@ -9,6 +9,10 @@ section p:nth-child(2){
     font-weight:bold;
 }
 
+.fondo-nav{
+    background-color: #e3f2fd;
+}
+
 .shadow{
     width: 90%;
     -webkit-box-shadow: 10px 17px 9px 4px rgba(0,0,0,0.37);
