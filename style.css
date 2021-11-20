@@ -10,10 +10,9 @@ section p:nth-child(2){
 }
 
 .shadow{
+    background-color: #7DC2C1;
+    border-radius: 10px;
     width: 90%;
-    -webkit-box-shadow: 10px 17px 9px 4px rgba(0,0,0,0.37);
-    -moz-box-shadow: 10px 17px 9px 4px rgba(0,0,0,0.37);
-    box-shadow: 10px 17px 9px 4px rgba(0,0,0,0.37);
 }
 
 
