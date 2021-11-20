@@ -19,7 +19,13 @@ section p:nth-child(2){
     width: 90%;
 }
 
-
+.estilo{
+    width: 150px;
+    height: 40px;
+    margin: auto;
+    
+    
+}
 
 
 footer{
