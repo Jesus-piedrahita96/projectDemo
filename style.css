@@ -1,5 +1,6 @@
 body{
-    background-color: yellow;
+    background-color:chocolate;
+    color: cornsilk;
 }
 
 section p:nth-child(2){
@@ -10,5 +11,5 @@ section p:nth-child(2){
 
 
 footer{
-    color: darkgray;
+    color:cyan;
 }
