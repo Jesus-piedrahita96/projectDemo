@@ -1,4 +1,4 @@
-body{
+*body{
     background-color:chocolate;
     color: cornsilk;
 }
@@ -8,6 +8,15 @@ section p:nth-child(2){
     font-size: 20px;
     font-weight:bold;
 }
+
+.shadow{
+    width: 90%;
+    -webkit-box-shadow: 10px 17px 9px 4px rgba(0,0,0,0.37);
+    -moz-box-shadow: 10px 17px 9px 4px rgba(0,0,0,0.37);
+    box-shadow: 10px 17px 9px 4px rgba(0,0,0,0.37);
+}
+
+
 
 
 footer{
