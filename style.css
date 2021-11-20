@@ -9,6 +9,10 @@ section p:nth-child(2){
     font-weight:bold;
 }
 
+.fondo-nav{
+    background-color: #e3f2fd;
+}
+
 .shadow{
     background-color: #7DC2C1;
     border-radius: 10px;
