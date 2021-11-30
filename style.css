@@ -1,6 +1,13 @@
-*body{
-    background-color:chocolate;
-    color: cornsilk;
+.container{
+    background-color: white;
+}
+
+.estructura{
+    background-color:darkgrey;
+    padding-right: 1px;
+    padding-left: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 section p:nth-child(2){
