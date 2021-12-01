@@ -10,6 +10,14 @@
     padding-bottom: 5px;
 }
 
+.ancho{
+    width:100%;
+}
+
+.ancho1{
+    width:50%;
+}
+
 .text{
     color: black;
 }
