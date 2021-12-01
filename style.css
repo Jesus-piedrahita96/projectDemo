@@ -3,6 +3,10 @@
     color: cornsilk;
 }
 
+.text{
+    color: black;
+}
+
 section p:nth-child(2){
     color: darkmagenta;
     font-size: 20px;
