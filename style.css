@@ -39,9 +39,11 @@ section p:nth-child(2){
 }
 
 .estilo{
-    width: 150px;
-    height: 41px;
-    margin: auto;
+    width: auto;
+    height: 50px;
+    border-radius: 8px;
+    margin: 0 24px;
+
 }
 
 
